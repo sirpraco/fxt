@@ -1,0 +1,2 @@
+# fxt
+forex trader
